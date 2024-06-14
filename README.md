@@ -16,7 +16,7 @@
 <br> 
 
 
-## Layout 𓍢ִ໋🌷͙֒✧˚ ༘ ⋆｡ ˚♡
+## Layout 𓍢ִ໋ 🌷͙֒✧˚ ⋆｡ ˚♡
 <img src="https://github.com/camylla14/E-Commerce-Flower-Shop/assets/150981282/67032623-2404-461e-8e33-f11286007692" alt="imagem demonstração do projeto jokenpo" width="680" >
 
 ## [Link Demonstração](https://commerce-flower-shop.netlify.app/)
