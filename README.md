@@ -1,4 +1,4 @@
-# Flower Shop 🌺
+# Flower Shop 𓍢ִ໋🌺͙֒ᰔᩚ
 
 
 <img src="https://github.com/camylla14/E-Commerce-Flower-Shop/assets/150981282/8a2da67f-b537-4f68-a14d-82f2494541d8" alt="imagem demonstração do projeto jokenpo" width="600" >
@@ -13,19 +13,19 @@
 - [Próximos Passos](#-próximos-passos)
 
 
-<br>
+<br> 
 
 
-## Layout 📲
+## Layout 𓍢ִ໋🌷͙֒✧˚ ༘ ⋆｡ ˚♡
 <img src="https://github.com/camylla14/E-Commerce-Flower-Shop/assets/150981282/67032623-2404-461e-8e33-f11286007692" alt="imagem demonstração do projeto jokenpo" width="680" >
 
-## - [Link Demonstração](https://commerce-flower-shop.netlify.app/)
+## [Link Demonstração](https://commerce-flower-shop.netlify.app/)
 
-## -Tecnologias Utilizadas
+## Tecnologias Utilizadas 💠
 ✔️ CSS
 <br>
 ✔️ HTML
 
-## -Próximos Passos
+## Próximos Passos 📣
 - Trazer dinamismo para o site com Java Script
 - Upgrade na responsividade
