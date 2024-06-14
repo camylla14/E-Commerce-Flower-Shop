@@ -13,7 +13,7 @@
 - [Próximos Passos](#-próximos-passos)
 
 
-<br> 
+<br>
 
 
 ## Layout 📲
