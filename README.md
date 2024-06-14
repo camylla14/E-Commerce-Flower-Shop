@@ -26,6 +26,5 @@
 <br>
 ✔️ HTML
 
-## - Primeiros passos
-
-### -Fazer com que o site seja funcional com Java Scrit
+## -Próximos Passos
+-Próximos Passos
