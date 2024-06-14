@@ -380,7 +380,7 @@ icons-container .icons span{
 }
 
 .girl-flower{
-    width: 48rem;
+    width: 34rem;
 }
 
 .review .box-container .box .user h3{
@@ -485,8 +485,8 @@ icons-container .icons span{
 
 
 
-/* media queries */
-@media (max-width:991px){
+/* media queries */ /*header .icons a{font-size: 2rem;}*/
+@media (max-width:1099px){
 
     html{
         font-size: 55%;
@@ -495,12 +495,16 @@ icons-container .icons span{
         padding: 2rem;
     }
     .products .box-container{
-        margin-left: 9.5rem;
-        margin-right: 10.5rem;
+        margin-left: 9.5rem; /*9.5*/
+        margin-right: 8.5rem; /*10.5*/
+    }
+    header .icons a{
+        font-size: 3rem;
+        margin-left: 0.5rem;
     }
 }
 
-@media (max-width:768px){
+@media (max-width:804px){
     html .fa-bars{
         display: block;
     }
@@ -543,7 +547,7 @@ icons-container .icons span{
 }
 
 
-
+/*header .icons a{font-size: 2rem; margin-left: 0.5rem;}*/
 @media (max-width:450px){
 
     html{
@@ -552,9 +556,24 @@ icons-container .icons span{
     .heading{
         font-size: 3rem;
     }
+    .products .box-container{
+        margin-left: 8.5rem;
+    }
 }
 
+@media (max-width:360px){
+    header .logo{
+        font-size: 2.5rem;
+    }
 
+    header .icons a{
+        font-size: 2.4rem;
+    }
+
+    .products .box-container{
+        margin-left: 6.5rem;
+    }
+}
 
 
 
