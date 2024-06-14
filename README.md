@@ -20,11 +20,11 @@
 ## Layout 📲
 <img src="https://github.com/camylla14/E-Commerce-Flower-Shop/assets/150981282/67032623-2404-461e-8e33-f11286007692" alt="imagem demonstração do projeto jokenpo" width="680" >
 
-## Tecnologias Utilizadas
+## -Tecnologias Utilizadas
 
 ✔️ CSS
 <br>
 ✔️ HTML
 
 ## -Próximos Passos
--Próximos Passos
+-Trazer dinamismo para o site com Java Script
